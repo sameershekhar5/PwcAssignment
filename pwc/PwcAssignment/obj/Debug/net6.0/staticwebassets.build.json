@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "j73pxkeZHos5/xhscDL7SzBKWGWuQLpkW++b5MPSd7g=",
+  "Source": "PwcAssignment",
+  "BasePath": "_content/PwcAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PwcAssignment\\wwwroot",
+      "Source": "PwcAssignment",
+      "ContentRoot": "C:\\Users\\samee\\source\\repos\\PwcAssignment\\wwwroot\\",
+      "BasePath": "_content/PwcAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\samee\\source\\repos\\PwcAssignment\\wwwroot\\in.json",
+      "SourceId": "PwcAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\samee\\source\\repos\\PwcAssignment\\wwwroot\\",
+      "BasePath": "_content/PwcAssignment",
+      "RelativePath": "in.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\in.json"
+    }
+  ]
+}
